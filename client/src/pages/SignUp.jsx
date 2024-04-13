@@ -106,7 +106,7 @@ export default function SignUp() {
               {errorMessage}
             </Alert>
           )}
-      </div>
+        </div>
       </div>
     </div>
   )
